@@ -1,20 +1,50 @@
+### Hey there :wave:
+### Glad to see you here :heart:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaaditya&label=Views&color=blue&style=plastic" alt="ranaaditya" /> </p>
+
+
+<a href="https://twitter.com/ranaaditya03">
+  <img align="left" alt="rana's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/adityarananitt">
+  <img align="left" alt="rana's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ranaaditya">
+  <img align="left" alt="rana's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br/>
+<br/>
+
+
+- 🔭 I’m currently working on [Groovy -> Kotlin Script](https://github.com/ranaaditya/groovy2kts)
+- 🌱 I’m currently learning Rust and Compiler-Design
+- 👯 I’m looking to collaborate on [groovy2kts](https://github.com/ranaaditya/groovy2kts)
 <!--
-**ranaaditya/ranaaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-->
+- 💬 Ask me abou - GSoC, Android Application Development, Operating System 
+- 📫 How to reach me: drop a hi! on my [LinkedIn](https://linkedin.com/in/adityarananitt)
+- 😄 Pronouns: He/His
+<!--
+- ⚡ Fun fact: 
 -->
 
-### Hey there :wave: ! Glad to see you here :heart:
-<img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaaditya&theme=vue&hide=css,tcl,html"></img>
-<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=ranaaditya&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr>
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaaditya&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranaaditya&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
+</a>
+<a href="https://github.com/Gurupreet/ComposeCookBook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranaaditya&repo=groovy2kts&theme=light" />
+
+</a>
