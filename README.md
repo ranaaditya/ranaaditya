@@ -36,9 +36,25 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />
+<img align="left" alt="android studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/androidstudio.svg" />
+<img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/java.svg" />
+<img align="left" alt="kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/kotlin.svg" />
+<img align="left" alt="cplusplus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/cplusplus.svg" />
+<img align="left" alt="groovy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/apachegroovy.svg" />
+<img align="left" alt="IntelliJ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/intellijidea.svg" />
+<img align="left" alt="Rust" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/rust.svg" />
+<img align="left" alt="Golang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/go.svg" />
+<img align="left" alt="OpneGL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/opengl.svg" />
+
+
+
+
+
+
+
+
+
 
 <a href="https://github.com/ranaaditya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaaditya&theme=light&hide_langs_below=1" />
