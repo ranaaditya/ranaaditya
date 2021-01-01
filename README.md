@@ -46,14 +46,8 @@
 <img align="left" alt="Rust" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/rust.svg" />
 <img align="left" alt="Golang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/go.svg" />
 <img align="left" alt="OpneGL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/opengl.svg" />
-
-
-
-
-
-
-
-
+<br>
+<br>
 
 
 <a href="https://github.com/ranaaditya">
