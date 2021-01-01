@@ -17,6 +17,10 @@
   <img align="left" alt="rana's Bintray" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jfrog.svg" />
 </a>
 
+<a href="https://medium.com/@ranaaditya">
+  <img align="left" alt="rana's Medium account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+</a>
+
 <br/>
 <br/>
 
