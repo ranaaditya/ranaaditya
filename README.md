@@ -7,12 +7,19 @@
 <a href="https://twitter.com/ranaaditya03">
   <img align="left" alt="rana's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
 <a href="https://linkedin.com/in/adityarananitt">
   <img align="left" alt="rana's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a href="https://github.com/ranaaditya">
   <img align="left" alt="rana's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
+<a href="https://t.me/rana_aditya">
+  <img align="left" alt="rana's Telegram handle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+</a>
+
 <a href="https://bintray.com/ranaaditya">
   <img align="left" alt="rana's Bintray" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jfrog.svg" />
 </a>
