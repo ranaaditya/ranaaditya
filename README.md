@@ -32,13 +32,12 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Groovy -> Kotlin Script](https://github.com/ranaaditya/groovy2kts)
-- 🌱 I’m currently learning Rust and Compiler-Design
-- 👯 I’m looking to collaborate on [groovy2kts](https://github.com/ranaaditya/groovy2kts)
-- 💬 Ask me about - GSoC, Android Application Development, Operating Systems
+- 🔭 I’m currently Open Source Maintenaner for [Processing's android-mode](https://github.com/processing/processing-android)
+- 🌱 I’m currently learning Python, Computer-Networking and generative art
+- 👯 I’m looking to collaborate on [Processing's kotlin-native mode](https://github.com/ranaaditya/processing-android)
+- 💬 Ask me about - GSoC, Android Application Development, [Processing](https://processing.org)
 - 📫 How to reach me: drop a hi! message on my [LinkedIn](https://linkedin.com/in/adityarananitt)
 - 😄 Pronouns: He/His
-- ***For something great*** :fire: ***about Open-Source visit*** ***- [dwoc.io](https://dwoc.io)***
 
 
 **Languages and Tools:**  
@@ -64,6 +63,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranaaditya&show_icons=true&theme=light&line_height=27" alt="ranaaditya's github stats"/>
 </a>
 <h4>Feel free to Contribute on </h4>
-<a href="https://github.com/ranaaditya/groovy2kts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranaaditya&repo=groovy2kts&theme=light" />
+<a href="https://github.com/ranaaditya/processing-android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranaaditya&repo=processing-android&theme=light" />
 </a>
