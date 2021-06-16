@@ -62,6 +62,10 @@
 <a href="https://github.com/ranaaditya">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranaaditya&show_icons=true&theme=light&line_height=27" alt="ranaaditya's github stats"/>
 </a>
+<br><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaaditya&" alt="ranaaditya" /></p>
+
 <h4>Feel free to Contribute on </h4>
 <a href="https://github.com/ranaaditya/processing-kotlin-native">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranaaditya&repo=processing-kotlin-native&theme=light" />
