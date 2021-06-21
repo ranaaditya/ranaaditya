@@ -34,7 +34,7 @@
 - :computer: I'm currently working as SWE Intern at Cisco Systems
 - 🔭 I’m currently Open Source Maintenaner for [Processing's android-mode](https://github.com/processing/processing-android)
 - 🌱 I’m currently learning 3GPP Architecture, 4G advanced, LTE and Core Mobility Networking
-- 👯 I’m looking to collaborate on [Processing's kotlin-native mode](https://github.com/ranaaditya/processing-kotlin-native)
+- 👯 I’m looking to collaborate on [Processing's kotlin-native mode](https://github.com/processing-for-kotlin/kotlin-native-mode)
 - 💬 Ask me about - GSoC, Android Application Development, [Processing](https://processing.org)
 - 📫 How to reach me: drop a hi! message on my [LinkedIn](https://linkedin.com/in/adityarananitt)
 - 😄 Pronouns: He/His
