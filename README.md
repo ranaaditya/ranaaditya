@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-- :computer: I'm currently working as SWE Intern at Cisco Systems
+- :computer: I recently worked as SWE Intern at Cisco Systems with Mobility Engineering Team
 - 🔭 I’m currently Open Source Maintenaner for [Processing's android-mode](https://github.com/processing/processing-android)
 - 🌱 I’m currently learning 3GPP Architecture, 4G advanced, LTE and Core Mobility Networking
 - 👯 I’m looking to collaborate on [Processing's kotlin-native mode](https://github.com/processing-for-kotlin/kotlin-native-mode)
