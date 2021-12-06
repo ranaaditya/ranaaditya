@@ -1,5 +1,6 @@
 ### Hey there :wave:
 ### Glad to see you here :heart:
+[![Twitter Follow](https://img.shields.io/twitter/follow/ranaaditya03?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2adityarana&screen_name=ranaaditya03)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaaditya&label=Views&color=blue&style=plastic" alt="ranaaditya" /> </p>
 
