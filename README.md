@@ -1,4 +1,7 @@
 ### Hey there :wave:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=import+ranaaditya.*)](https://git.io/typing-svg)
+
 ### Glad to see you here :heart:
 [![Twitter Follow](https://img.shields.io/twitter/follow/ranaaditya03?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2adityarana&screen_name=ranaaditya03)
 
