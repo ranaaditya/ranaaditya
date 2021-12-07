@@ -83,7 +83,7 @@
       <img
         align="left"
         width="396"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ranaaditya&theme=react&border=61dafb&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=ranaaditya&theme=monokai-metallian&border=61dafb&hide_border=true"
         alt="zumrudu-anka"
       />
     </a>
@@ -91,7 +91,7 @@
       <img
         align="right"
         width="396"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ranaaditya&theme=monokai-metallian&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=ranaaditya&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
       />
     </a>
   </div>
