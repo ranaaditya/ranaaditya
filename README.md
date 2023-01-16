@@ -35,10 +35,10 @@
 <br/>
 <br/>
 
-- :computer: I am Software Engineer at Cisco Cloud Native BNG, Mass Infrastructure Group
+- :computer: I am Software Engineer at Cisco Cloud where I works on famous IOSXR (router operating system) and virtual (cloud networking) routing technologies
 - :computer: I recently worked as SWE Intern at Cisco Systems with Mobility Engineering Team
 - 🔭 I’m currently Open Source Maintenaner for [Processing's android-mode](https://github.com/processing/processing-android)
-- 🌱 I’m currently learning 3GPP Architecture, 4G advanced, LTE and Core Mobility Networking
+- 🌱 I’m have worked on 3GPP Architecture, 4G advanced, LTE and Core Mobility Networking and written S5, S11 networking interfaces from scratch in GoLang and later my worked got deployed in USA 5G packet core.
 - 👯 I’m looking to collaborate on [Processing's kotlin-native mode](https://github.com/processing-for-kotlin/kotlin-native-mode)
 - 💬 Ask me about - GSoC, Android Application Development, [Processing](https://processing.org)
 - 📫 How to reach me: drop a hi! message on my [LinkedIn](https://linkedin.com/in/adityarananitt)
