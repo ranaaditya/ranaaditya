@@ -35,7 +35,7 @@
 <br/>
 <br/>
 
-- :computer: I am Software Engineer at Cisco Cloud where I works on famous IOSXR (router operating system) and virtual (cloud networking) routing technologies
+- :computer: I am Software Engineer at Cisco Cloud where I work on iosXR (router OS), cloud native protocols, core networking protocols like BGP, BNG, etc.
 - :computer: I recently worked as SWE Intern at Cisco Systems with Mobility Engineering Team
 - 🔭 I’m currently Open Source Maintenaner for [Processing's android-mode](https://github.com/processing/processing-android)
 - 🌱 I’m have worked on 3GPP Architecture, 4G advanced, LTE and Core Mobility Networking and written S5, S11 networking interfaces from scratch in GoLang and later my worked got deployed in USA 5G packet core.
