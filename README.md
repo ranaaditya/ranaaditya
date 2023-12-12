@@ -35,7 +35,8 @@
 <br/>
 <br/>
 
-- :computer: I am Software Engineer at Cisco Cloud where I work on iosXR (router OS), cloud native protocols - cnBNG, BGP, etc enabling data centers up and running 24x7 .
+- :cycle: on a break
+- :computer: I was Software Engineer at Cisco Cloud where I work on iosXR (router OS), cloud native protocols - cnBNG, BGP, etc enabling data centers up and running 24x7 .
 - :computer: I recently worked as SWE Intern at Cisco Systems with Mobility Engineering Team
 - 🔭 I’m currently Open Source Maintenaner for [Processing's android-mode](https://github.com/processing/processing-android)
 - 🌱 I’m have worked on 3GPP Architecture, 4G advanced, LTE and Core Mobility Networking and written S5, S11 networking interfaces from scratch in GoLang and later my worked got deployed in USA 5G packet core.
