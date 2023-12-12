@@ -35,7 +35,7 @@
 <br/>
 <br/>
 
-- :cycle: on a break
+-  on a 🏍️ break
 - :computer: I was Software Engineer at Cisco Cloud where I work on iosXR (router OS), cloud native protocols - cnBNG, BGP, etc enabling data centers up and running 24x7 .
 - :computer: I recently worked as SWE Intern at Cisco Systems with Mobility Engineering Team
 - 🔭 I’m currently Open Source Maintenaner for [Processing's android-mode](https://github.com/processing/processing-android)
