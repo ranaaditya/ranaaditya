@@ -35,16 +35,16 @@
 <br/>
 <br/>
 
--  Building something cool in Stealth for next billion Indian Consumers
-- :computer: I was Software Engineer at Cisco Cloud where I work on iosXR (router OS), cloud native protocols - cnBNG, BGP, etc enabling data centers up and running 24x7 .
-- :computer: I recently worked as SWE Intern at Cisco Systems with Mobility Engineering Team
-- 🔭 I’m currently Open Source Maintenaner for [Processing's android-mode](https://github.com/processing/processing-android)
+Life in a Nutshell:
+-  Exploring **What's Next !**
+-  Co-Founded a startup | raised funds | scaled to a level.
+-  Worked as Software Engineer at Cisco Cloud where I work on iosXR (router OS), cloud native protocols - cnBNG, BGP, etc enabling data centers up and running 24x7.
+-  Worked as SWE Intern at Cisco Systems with Mobility Engineering Team.
+- 🔭 Maintained [Processing's android-mode](https://github.com/processing/processing-android) for couple of years.
 - 🌱 I’m have worked on 3GPP Architecture, 4G advanced, LTE and Core Mobility Networking and written S5, S11 networking interfaces from scratch in GoLang and later my worked got deployed in USA 5G packet core.
 - 👯 I’m looking to collaborate on [Processing's kotlin-native mode](https://github.com/processing-for-kotlin/kotlin-native-mode)
-- 💬 Ask me about - GSoC, Android Application Development, [Processing](https://processing.org)
+- 💬 Ask me about - Startups, Tech, SoC Hardware, SLMs.
 - 📫 How to reach me: drop a hi! message on my [LinkedIn](https://linkedin.com/in/adityarananitt)
-- 😄 Pronouns: He/His
-- Support my work on [**Patreon**](https://www.patreon.com/ranaaditya)
 
 
 **Languages and Tools:**  
