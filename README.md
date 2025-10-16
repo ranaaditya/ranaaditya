@@ -37,7 +37,7 @@
 
 Life in a Nutshell:
 -  Exploring **What's Next !**
--  Co-Founded a startup | raised funds | scaled to a level.
+-  Co-Founded a startup | raised funds | scaled
 -  Worked as Software Engineer at Cisco Cloud where I work on iosXR (router OS), cloud native protocols - cnBNG, BGP, etc enabling data centers up and running 24x7.
 -  Worked as SWE Intern at Cisco Systems with Mobility Engineering Team.
 - 🔭 Maintained [Processing's android-mode](https://github.com/processing/processing-android) for couple of years.
@@ -109,7 +109,7 @@ Life in a Nutshell:
     </a>
   </div>
   <br />
-  <div align="center">
+  <!-- <div align="center">
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
       <img
         src="https://activity-graph.herokuapp.com/graph?username=ranaaditya&theme=react-dark&bg_color=20232a&hide_border=true&area=true"
@@ -117,11 +117,11 @@ Life in a Nutshell:
         width="100%"
       />
     </a>
-  </div>
+  </div> -->
   <br />
-  <div align="center">
+  <!-- <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img src="https://github-profile-trophy.vercel.app/?username=ranaaditya&theme=nord&column=7" alt="Trophies" />
     </a>
-  </div>
+  </div> -->
 </div>
