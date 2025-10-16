@@ -53,12 +53,16 @@ Life in a Nutshell:
 <img align="left" alt="android studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/androidstudio.svg" />
 <img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/java.svg" />
 <img align="left" alt="kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/kotlin.svg" />
+<img align="left" alt="Dart" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/dart.svg" />
+<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/flutter.svg" />
 <img align="left" alt="cplusplus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/cplusplus.svg" />
 <img align="left" alt="groovy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/apachegroovy.svg" />
 <img align="left" alt="IntelliJ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/intellijidea.svg" />
 <img align="left" alt="Rust" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/rust.svg" />
 <img align="left" alt="Golang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/go.svg" />
 <img align="left" alt="OpneGL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/opengl.svg" />
+<img align="left" alt="AWS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/amazonaws.svg" />
+<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/react.svg" />
 <br>
 <br>
 
