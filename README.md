@@ -36,7 +36,7 @@
 <br/>
 
 Life in a Nutshell:
--  Exploring **What's Next !**
+-  **Exploring Hard problems to Solve!**
 -  Co-Founded a startup | raised funds | scaled
 -  Worked as Software Engineer at Cisco Cloud where I work on iosXR (router OS), cloud native protocols - cnBNG, BGP, etc enabling data centers up and running 24x7.
 -  Worked as SWE Intern at Cisco Systems with Mobility Engineering Team.
